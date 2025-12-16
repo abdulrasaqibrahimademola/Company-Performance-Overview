@@ -1,5 +1,17 @@
 ## Company-Performance-Overview
 
+## 📑 Table of Contents
+- [Dashboard Overview](#-dashboard-overview)
+- [Project Overview](#-project-overview)
+- [Objectives](#-objectives)
+- [Tools & Technologies](#-tools--technologies)
+- [Data Preparation & Modeling](#-data-preparation--modeling)
+- [Key Metrics](#-key-metrics)
+- [Key Insights](#-key-insights)
+- [Recommendations](#-recommendations)
+- [Learning Outcome](#-learning-outcome)
+- [Reference](#-reference)
+
 ## 📸 Dashboard Overview
 
 <img width="814" height="477" alt="Dashboard1" src="https://github.com/user-attachments/assets/89dee66a-bab9-4ed8-8ff4-239ccf76117e" />
